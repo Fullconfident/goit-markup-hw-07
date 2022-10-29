@@ -1,0 +1,28 @@
+@import './utils/vars';
+@import './base/reset';
+@import './base/common';
+@import './utils/hidden';
+
+@import './components/conteiner';
+@import './components/modal';
+
+
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/feature';
+@import './layouts/ourwork';
+@import './layouts/team';
+@import './layouts/customers';
+@import './layouts/footer';
+
+
+@import './utils2/var';
+@import './bases/reset';
+@import './bases/common';
+@import './utils2/hidden';
+
+@import './components2/conteiner';
+
+@import './layout2/header';
+@import './layout2/portfolio';
+@import './layout2/footer';
